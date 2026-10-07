@@ -1,7 +1,7 @@
 {
   "sample": "down",
-  "count": 1,
-  "status": "up",
-  "issue_number": null,
+  "count": 2,
+  "status": "down",
+  "issue_number": 1,
   "maintenance_month": "2026-10"
 }
